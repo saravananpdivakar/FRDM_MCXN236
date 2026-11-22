@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+# Build output
+Debug/
+Release/
+build/
+*.elf
+*.axf
+*.bin
+*.hex
+*.map
+
+# MCUXpresso / VS Code / IDE
+.settings/
+.metadata/
+.vscode/
+*.launch
+
+# OS junk
+Thumbs.db
+.DS_Store
